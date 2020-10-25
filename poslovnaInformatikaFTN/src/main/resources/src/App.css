@@ -1,0 +1,24 @@
+:root {
+  --mainRed: #6f342c;
+  --mediumRed: #cc2434;
+  --lightRed: #dc3444;
+  --darkOrange: #d88d23;
+  --mainOrange: #f0a53c;
+  --lightOrange: #f1c484;
+  --mainDark: #383c44;
+  --mainWhite: #f3f3f3;
+  --mainGray: #c4c4c4;
+  --mainGreen: #248c3c;
+  --lightGreen: #2ca444;
+}
+
+/*
+  GOOGLE FONT FAMILIES
+  font-family: 'Anton', sans-serif;
+  font-family: 'Archivo', sans-serif; 
+*/
+
+body {
+  background: var(--mainWhite) !important;
+  color: var(--mainDark) !important;
+}
